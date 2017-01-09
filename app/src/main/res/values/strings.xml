@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Business card</string>
+    <string name="address1"> Address:05-01,Bugis street</string>
+    <string name="address2"> Singapore,789065</string>
+    <string name="coworking">TheCo-Hub</string>
+    <string name="telephone">Contact: T(+65)78906543</string>
+    <string name="mobile"> M(+65)87965432</string>
+    <string name="instagram">cohub</string>
+    <string name="google">Cohubx</string>
+    <string name="fb">thecohub</string>
+    <string name="mailid">Email: contact@cohub.com</string>
+    <string name="description"> For more info : click Coworking space and communities</string>
+</resources>
